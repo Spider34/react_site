@@ -4,11 +4,11 @@ import Button from '@material-ui/core/Button';
 class button extends Component{
 	render(){
 		return(
-			 <div>
-			 	<Button variant="contained" color="primary" >
-        		Primary
+			<div>
+			<Button variant="contained" color="primary" >
+        		Primary Button
       			</Button>
-			 </div>
+			</div>
 			);
 	}
 }
